@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	background: linear-gradient(0.25turn, #8aedf6, #60a2f5);
+}
+
+.navbar-text {
+	margin-left: 30%;
+	font-family: "Hind Siliguri", sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.navbar-light {
+	background-color: #4dc3ff;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.logout-btn {
+	float: left;
+	display: flex;
+	margin-right: 1em;
+}
+
+#user-show {
+	font-style: italic;
+	font-weight: bold;
+	opacity: 0.75;
+}
+
+.edit-book-heading {
+	font-family: "Hind Siliguri", sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+	opacity: 0.75;
+}
+
+.edit-book-div {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.input-field {
+	width: 15rem;
+}
+
+.author-form {
+	margin-top: 2rem;
+}
+.form-select-btn{
+    margin-left: 10px;
+  }

@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	background: linear-gradient(0.25turn, #8aedf6, #60a2f5);
+}
+
+.navbar-text {
+	margin-left: 30%;
+	font-family: "Hind Siliguri", sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.navbar-light {
+	background-color: #4dc3ff;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.logout-btn {
+	float: left;
+	display: flex;
+	margin-right: 1em;
+}
+
+#user-show {
+	font-style: italic;
+	font-weight: bold;
+	opacity: 0.75;
+}
+
+.book-listing {
+	text-align: center;
+}
+
+.book-listing-row {
+	width: 100%;
+	margin-top: 2rem;
+}
+
+.book-listing-text {
+	font-family: "Hind Siliguri", sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+	opacity: 0.75;
+}
+
+.add-book-div {
+	margin-top: 0.5rem;
+	display: flex;
+}
+
+.table-container{
+  margin-top: 2rem;
+}
